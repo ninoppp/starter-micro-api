@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    whatsapp-web.js
+    "whatsapp-web.js":"1.19.5"
   }
 }
